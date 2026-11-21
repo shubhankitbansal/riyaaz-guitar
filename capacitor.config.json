@@ -1,0 +1,9 @@
+{
+  "appId": "com.riyaaz.guitar",
+  "appName": "Riyaaz Guitar",
+  "webDir": "build",
+  "backgroundColor": "#14110f",
+  "android": {
+    "backgroundColor": "#14110f"
+  }
+}
